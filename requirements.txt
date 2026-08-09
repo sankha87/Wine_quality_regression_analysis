@@ -1,0 +1,3 @@
+# Runtime and package dependencies for Wine_Quality_Assignment.R
+R >= 4.1
+ggplot2 >= 3.4
